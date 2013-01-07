@@ -8,7 +8,6 @@ public class EGIT_sample_02_main {
 		System.out.println("hello");
 		System.out.println("good bye");
 
-
 	}
 
 }
